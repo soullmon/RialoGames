@@ -9,8 +9,8 @@ window.requestAnimFrame = (function() {
 var canvas = document.getElementById('canvas'),
 	ctx = canvas.getContext('2d');
 
-var width = 422,
-	height = 552;
+var width = 622,
+	height = 752;
 
 canvas.width = width;
 canvas.height = height;
