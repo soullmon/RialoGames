@@ -488,7 +488,7 @@ document.addEventListener('touchend', function(e) {
 			player.isDead = "lol";
 
 			var tweet = document.getElementById("tweetBtn");
-			tweet.href='https://twitter.com/share?url=https://x.com/rialohq just scored ' +score+ ' points in the Rialo Jump game! by @soullmon_&count=horiztonal&lets follow=RialoHQk&related=solitarydesigns';
+			tweet.href='https://twitter.com/share?url=https://soullmon.github.io/RialoGames/ just scored ' +score+ ' points in the Rialo Jump game! Connect With @RialoHQ &count=horiztonal&lets follow=RialoHQk&related=solitarydesigns';
 		
 		}
 	}
