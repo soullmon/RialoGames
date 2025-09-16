@@ -10,23 +10,23 @@ body {
 }
 
 .container {
-	height: 552px;
-	width: 422px;
+	height: 752px;
+	width: 622px;
 	position: relative;
 	margin: 10px auto 0; 
 	overflow: hidden;
 }
 
 canvas {
-	height: 552px;
-	width: 422px;
+	height: 752px;
+	width: 622px;
 	display: block;
 	background: url(https://i.imgur.com/pXhn81Z.png);
 	background-size: cover;
 }
 
 #scoreBoard {
-	width: 420px;
+	width: 622px;
 	height: 50px;
 	background: rgba(182, 200, 220, 0.7);
 	position: absolute;
