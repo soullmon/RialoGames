@@ -60,8 +60,8 @@ var Player = function() {
 	this.isMovingRight = false;
 	this.isDead = false;
 
-	this.width = 75;
-	this.height = 60;
+	this.width = 85;
+	this.height = 70;
 
 	//Sprite clipping
 	this.cx = 0;
